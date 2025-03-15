@@ -1,1 +1,3 @@
-Classes for task Object-Oriented Thinking
+Classes for task Object-Oriented Thinking.
+
+Cherepanov Illia
